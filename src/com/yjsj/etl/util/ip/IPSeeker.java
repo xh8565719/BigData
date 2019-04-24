@@ -21,7 +21,7 @@ import java.util.List;
  * "起始地址/结束地址偏移"记录区 1. 每条记录7字节，按照起始地址从小到大排列 a. 起始IP地址，4字节 b. 结束ip地址的绝对偏移，3字节
  * 
  * 注意，这个文件里的ip地址和所有的偏移量均采用little-endian格式，而java是采用 big-endian格式的，要注意转换
- * 
+ * 纯真库更新用python脚本执行
  * @author root
  */
 public class IPSeeker {
