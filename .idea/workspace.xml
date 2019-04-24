@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d336a07b-665e-429a-9ddd-922ca0d53f13" name="Default" comment="" />
+    <list default="true" id="d336a07b-665e-429a-9ddd-922ca0d53f13" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yjsj/etl/util/ip/IPSeeker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yjsj/etl/util/ip/IPSeeker.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,11 @@
       <file leaf-file-name="IPSeeker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yjsj/etl/util/ip/IPSeeker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+            <state relative-caret-position="345">
+              <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+              <folding>
+                <element signature="e#17250#17258#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +56,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/com/yjsj/transformer/mr/nu/StatsUserNewInstallUserCollector.java" />
         <option value="$PROJECT_DIR$/src/com/yjsj/etl/mr/ald/AnalyserLogDataRunner.java" />
         <option value="$PROJECT_DIR$/src/transformer-env.xml" />
+        <option value="$PROJECT_DIR$/src/com/yjsj/etl/util/ip/IPSeeker.java" />
       </list>
     </option>
   </component>
@@ -83,12 +93,13 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-82" />
     <option name="y" value="5" />
     <option name="width" value="850" />
     <option name="height" value="710" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -314,15 +325,15 @@
       <workItem from="1555915699189" duration="783000" />
       <workItem from="1555918958883" duration="603000" />
       <workItem from="1556069997306" duration="1139000" />
-      <workItem from="1556071196174" duration="1918000" />
+      <workItem from="1556071196174" duration="2204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64497000" />
+    <option name="totallyTimeSpent" value="64783000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -335,7 +346,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.57118356" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -723,8 +734,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yjsj/etl/util/ip/IPSeeker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#17250#17258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
